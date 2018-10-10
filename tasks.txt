@@ -1,0 +1,3 @@
+[] Audits the papiao orders. 
+[] Make the panels backups.
+[] Send the iks4less orders.
